@@ -1,3 +1,3 @@
 # bd_2b
-Practica de Git\n
+Practica de Git
 Hola mundo
